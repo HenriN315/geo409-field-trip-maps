@@ -1,5 +1,3 @@
-# geo409-field-trip-maps
-Selected maps of Kentucky and locations therein
 # GEO409 Field Trip Maps
 Maps for field trip to measure tree canopy
 
