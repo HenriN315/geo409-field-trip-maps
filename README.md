@@ -1,6 +1,8 @@
 # GEO409 Field Trip Maps
 ## Maps to help us measure the tree canopy
 
+Link to page: https://HenriN315.github.io/geo409-field-trip-maps
+
 ![Kentucky Counties](Kentucky-Landcover-Layout.jpg)   
 Kentucky counties with selected land cover types – [Download geospatial PDF](Kentucky-Landcover-Layout.pdf)
 
